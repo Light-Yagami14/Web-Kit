@@ -1,4 +1,4 @@
-alert("Hello");
+alert("Lets Plays some beat");
 /********button********/
 for(var i=0;i<document.querySelectorAll(".drum").length;i++)  
 {
